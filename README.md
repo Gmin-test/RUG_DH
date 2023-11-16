@@ -1,5 +1,5 @@
 # Game of Thrones
-All the files and contents are from [https://www.kaggle.com/datasets/mylesoneill/game-of-thrones/]. The repository is just for practice how to use github.
+All the files and contents are from [kaggle](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones/). The repository is just for practice on how to use Github.
 ## About Dataset
 This dataset combines three sources of data, all of which are based on information from the book series.
 1. **battles.csv** which contains Chris Albon's "The War of the Five Kings" Dataset. Its agreat collection of all of the battles in the series.
