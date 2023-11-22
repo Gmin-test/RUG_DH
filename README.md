@@ -51,6 +51,7 @@ This dataset combines three sources of data, all of which are based on informati
 | DwD                  | Whether the character appears in "A Dance with Dragons" (1 for true, 0 for false) | Boolean |
 
 3.  **character-predictions.csv** includes their predictions on which character will die.
+   
 | Header               | Description                                       | Data Type  |
 |----------------------|---------------------------------------------------|------------|
 | S.No                 | Serial number for identification                   | Integer    |
